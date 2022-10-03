@@ -1,0 +1,41 @@
+.header{
+  position: relative;
+  background-color: skyblue;
+  border: 1px dashed black;
+  height: 50px;
+}
+.header_text{
+  text-align: center;
+}
+.container{
+  position: relative;
+  background-color: orange;
+  width: 1338px;
+  height: 624px;
+
+
+}
+.right_sidebar{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width:30%;
+  height:100%;
+  border: 1px dashed black;
+}
+.left_sidebar{
+  position: absolute;
+  left: 401.4px;
+  top: 0;
+  width: 70%;
+  height:100%;
+  border:1px dashed black;
+}
+.btn{
+
+  background-color: green;
+  display: block;
+  margin-left: 5%;
+  margin-right: auto;
+  margin-top: 10px;
+}

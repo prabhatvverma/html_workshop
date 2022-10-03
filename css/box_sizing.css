@@ -1,0 +1,25 @@
+.container {
+  width: 100%;
+  display: flex;
+}
+
+.box {
+  width: 25%;
+  padding: 8px;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.olive {
+  background-color: olive;
+}
