@@ -1,38 +1,41 @@
+body{
+  background-color: #fff;
+  margin: 0;
+
+}
 .box {
-  height: 200px;
-  width: 200px;
+    height: 200px;
+    width: 200px;
 }
 
 .red {
-  background-color: red;
-  padding: 24px;
-  box-sizing: border-box;
+    background-color: red;
+    padding: 24px;
+    box-sizing: border-box;
 }
 
 .green {
-  background-color: green;
+    background-color: rgb(214, 16, 231);
 }
 
-
-
 .circle {
-  position: relative;
-  left: 20%;
-  margin-top: 10%;
-  width: 300px;
-  height: 300px;
-  border-radius: 100%;
-  background: red;
+    position: relative;
+    left: 20%;
+    margin-top: 10%;
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    background: red;
 }
 
 .iner_circle {
-  position: absolute;
-  margin-left: 30%;
-  margin-top: 30%;
-  width: 40%;
-  height: 40%;
-  border-radius: 100px;
-  background: seagreen;
+    position: absolute;
+    margin-left: 30%;
+    margin-top: 30%;
+    width: 40%;
+    height: 40%;
+    border-radius: 100px;
+    background: seagreen;
 }
 
 /* .parent{
@@ -72,14 +75,6 @@
   text-align: center;
 }
  */
-
-
-
-
-
-
-
-
 /* .panel{ */
 /* background-color: midnightblue; */
 /* border:5px dashed black;
@@ -90,15 +85,6 @@ body{
       border: 5px solid yellow;
       height: 200px;
   } */
-
-
-
-
-
-
-
-
-
 /* .main{
   background: red;
 }
@@ -129,17 +115,6 @@ body{
   top: 100px;
   position: relative;
 } */
-
-
-
-
-
-
-
-
-
-
-
 /* .center{
   position: fixed;
   left :20px;
